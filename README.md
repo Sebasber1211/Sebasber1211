@@ -76,7 +76,7 @@
 
 
 
-<br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br>
 <hr width="60%" >
 <h3 align="left">Conecta conmigo:</h3>
 <p align="left">
@@ -93,6 +93,5 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="juansebastian" height="30" width="40" />
   </a>
 </p>
-<br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anii693&label=Profile%20views&color=0e75b6&style=flat" alt="juansebastian" /> </p>
+
 
