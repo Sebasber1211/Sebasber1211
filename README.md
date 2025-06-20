@@ -76,7 +76,7 @@
 
 
 
-<br><br><br><br><br><br><br><br>
+<br><br><br><br><br>
 <hr width="60%" >
 <h3 align="left">Conecta conmigo:</h3>
 <p align="left">
