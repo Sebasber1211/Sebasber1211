@@ -65,17 +65,26 @@
 <hr width="36%" >
 
 
-<h3>Mis estadísticas de GitHub</h3>
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
-<br>
+<h3>Estadísticas de mi cuenta principal (Sebasber1211)</h3>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sebasber1211&show_icons=true&theme=dark&locale=es&layout=compact" alt="Sebasber1211" /></p>
+
+<br><br><br><br><br><br><br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Sebasber1211&show_icons=true&theme=dark&locale=es" alt="Sebasber1211" /></p>
+
+<br><br><br><br><br><br><br><br><br><br>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Sebasber1211&theme=dark" alt="Sebasber1211" /></p>
+
+<h3>Estadísticas de mi cuenta anterior (Ecuanime)</h3>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ecuanime&show_icons=true&theme=dark&locale=es&layout=compact" alt="Ecuanime" /></p>
 
 <br><br><br><br><br><br><br>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Ecuanime&show_icons=true&theme=dark&locale=es" alt="Ecuanime" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Ecuanime&show_icons=true&theme=dark&locale=es" alt="Ecuanime" /></p>
 
 <br><br><br><br><br><br><br><br><br><br>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Ecuanime&theme=dark" alt="Ecuanime" /></p>
+
 
 
 
