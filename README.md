@@ -80,18 +80,14 @@
 <hr width="60%" >
 <h3 align="left">Conecta conmigo:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/anirudh-rai-072732220" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juansebastian" height="30" width="40" />
-  </a>
-  <a href="https://stackoverflow.com/users/21304875" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="juansebastian" height="30" width="40" />
-  </a>
-  <a href="https://kaggle.com/anirudhrai693" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="juansebastian" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/anii_akhil" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="juansebastian" height="30" width="40" />
-  </a>
+<a href="https://www.linkedin.com/in/juan-sebasti%C3%A1n-bertel-marzola-8107a3339/" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juansebastian" height="30" width="40" />
+</a>
+
+<a href="https://candidato.co.computrabajo.com/candidate/cv/edit/" target="_blank">
+  <img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968992.png" alt="computrabajo" height="30" width="40" />
+</a>
+
 </p>
 
 
