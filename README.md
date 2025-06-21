@@ -69,7 +69,6 @@
 
 <h3>📊 Estadísticas de mi cuenta principal (Sebasber1211)</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sebasber1211&show_icons=true&theme=dark&locale=es&layout=compact" alt="Sebasber1211" /></p>
 
 <br><br><br><br><br><br><br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Sebasber1211&show_icons=true&theme=dark&locale=es" alt="Sebasber1211" /></p>
