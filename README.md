@@ -3,12 +3,12 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 🌱 Tecnólogo en formación en **Análisis y Desarrollo de Software**  
-🎯 Buscando oportunidad de prácticas para aplicar mis conocimientos en un entorno profesional  
+🎯 Buscando oportunidad de prácticas para aplicar mis conocimientos en un entorno laboral  
 💬 Me apasiona el desarrollo backend, Frontend, diseño de bases de datos y la resolución de problemas  
 📫 Puedes contactarme: **stbmydp2@gmail.com**  
 📱 Teléfono: **+57 320 528 9488**  
-🌍 Idiomas: Español (nativo), Inglés (básico)  
-🎓 Estudiante del SENA (Medellín)
+🌍 Idiomas: Español (nativo), Inglés B1 (intermedio)  
+🎓 Estudiante del Servicio Nacional de Aprendizaje (SENA) (Medellín)
 
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
